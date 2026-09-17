@@ -3,7 +3,7 @@
 Exact file names, locations, and schemas. Runs as STEP 6 of the loop in
 `00-mission.md`, and governs every write you make at any step.
 
-You write only inside `out/`. Never `pack/`, never `CLAUDE.md`, never `inputs/`.
+You write only inside `out/`. Never `pack/`, never `inputs/`.
 
 ---
 

@@ -36,4 +36,3 @@ out/             where the executor writes drafts and logs
 2. Give `GROK_BRIEF.md` to Grok Bot as its full instruction set. **Don't connect any tool that can send email or messages.**
 3. Review the drafts in `out/` before anything goes out.
 
-`Claude.md` explains how the pack is written and maintained (Claude Code writes the rules; Grok carries them out).

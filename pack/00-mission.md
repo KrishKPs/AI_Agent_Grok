@@ -191,5 +191,5 @@ You cannot ask a question. Logging the gap is how you ask it.
 
 You write only inside `out/`.
 
-You never edit `CLAUDE.md`, never edit any file in `pack/`, and never edit
+You never edit any file in `pack/`, and never edit
 `inputs/companies.csv`.
